@@ -10,7 +10,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "byjg/anydataset-db": "4.1.*",
+    "jackraymund/anydataset-db": "4.1.1",
     "ext-pdo": "*"
   },
   "require-dev": {
