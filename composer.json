@@ -25,6 +25,7 @@
   {
     "type": "vcs",
     "url": "https://github.com/jackraymund/migration.git"
-  },
+  }
+  ],
   "license": "MIT"
 }
