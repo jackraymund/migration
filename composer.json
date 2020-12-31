@@ -10,7 +10,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "byjq/anydataset-db": "4.1.1",
+    "byjq/anydataset-db": "4.1.2",
     "ext-pdo": "*"
   },
   "require-dev": {
@@ -24,7 +24,7 @@
   "repositories": [
   {
     "type": "vcs",
-    "url": "https://github.com/jackraymund/anydataset-db.git"
+    "url": "https://github.com/jackraymund/anydataset-db"
   }
   ],
   "license": "MIT"
