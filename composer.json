@@ -21,7 +21,10 @@
       "ByJG\\DbMigration\\": "src/"
     }
   },
-  "type": "vcs",
-  "url": "https://github.com/jackraymund/anydataset-db.git"
+  "repositories": [
+  {
+    "type": "vcs",
+    "url": "https://github.com/jackraymund/migration.git"
+  },
   "license": "MIT"
 }
