@@ -10,7 +10,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "jackraymund/anydataset-db": "4.1.1",
+    "byjq/anydataset-db": "4.1.1",
     "ext-pdo": "*"
   },
   "require-dev": {
@@ -21,5 +21,7 @@
       "ByJG\\DbMigration\\": "src/"
     }
   },
+  "type": "vcs",
+  "url": "https://github.com/jackraymund/anydataset-db.git"
   "license": "MIT"
 }
