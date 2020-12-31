@@ -24,7 +24,7 @@
   "repositories": [
   {
     "type": "vcs",
-    "url": "https://github.com/jackraymund/migration.git"
+    "url": "https://github.com/jackraymund/anydataset-db.git"
   }
   ],
   "license": "MIT"
